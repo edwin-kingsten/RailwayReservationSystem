@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6265102bb77e6c0a70e3c7a5"
+  },
+  "SBC": {
+    "Arrives": "First",
+    "Departs": "06.00",
+    "Halt": "0",
+    "Dist": "0",
+    "Day": "1",
+    "index": 0
+  }
+},{
+  "_id": {
+    "$oid": "6265102bb77e6c0a70e3c7a6"
+  },
+  "BNC": {
+    "Arrives": "06.09",
+    "Departs": "06.10",
+    "Halt": "1",
+    "Dist": "5",
+    "Day": "1",
+    "index": 1
+  }
+},{
+  "_id": {
+    "$oid": "6265102bb77e6c0a70e3c7a7"
+  },
+  "KPD": {
+    "Arrives": "08.58",
+    "Departs": "09.00",
+    "Halt": "2",
+    "Dist": "232",
+    "Day": "1",
+    "index": 2
+  }
+},{
+  "_id": {
+    "$oid": "6265102bb77e6c0a70e3c7a8"
+  },
+  "MAS": {
+    "Arrives": "11.00",
+    "Departs": "Last",
+    "Halt": "0",
+    "Dist": "362",
+    "Day": "1",
+    "index": 3
+  }
+},{
+  "_id": {
+    "$oid": "6265102bb77e6c0a70e3c7a9"
+  },
+  "route": [
+    "SBC",
+    "BNC",
+    "KPD",
+    "MAS"
+  ]
+},{
+  "_id": {
+    "$oid": "626d593475ec8d15bff12852"
+  },
+  "Name": "Shadabdi Express"
+},{
+  "_id": {
+    "$oid": "627369bf4dd5a6f4a210bd12"
+  },
+  "days": [
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1
+  ]
+},{
+  "_id": {
+    "$oid": "62739c5e4dd5a6f4a210bd2b"
+  },
+  "Price": {
+    "AC1": 1000,
+    "AC2": 500,
+    "AC3": 300,
+    "Sleeper": 150,
+    "SS": 60
+  }
+}]

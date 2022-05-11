@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7e5"
+  },
+  "QLN": {
+    "Arrives": "First",
+    "Departs": "12.00",
+    "Halt": "0",
+    "Dist": "0",
+    "Day": "1",
+    "index": 0
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7e6"
+  },
+  "KUV": {
+    "Arrives": "12.17",
+    "Departs": "12.18",
+    "Halt": "1",
+    "Dist": "13",
+    "Day": "1",
+    "index": 1
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7e7"
+  },
+  "KKZ": {
+    "Arrives": "12.29",
+    "Departs": "12.30",
+    "Halt": "1",
+    "Dist": "25",
+    "Day": "1",
+    "index": 2
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7e8"
+  },
+  "AVS": {
+    "Arrives": "12.39",
+    "Departs": "12.40",
+    "Halt": "1",
+    "Dist": "37",
+    "Day": "1",
+    "index": 3
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7e9"
+  },
+  "PUU": {
+    "Arrives": "12.55",
+    "Departs": "13.00",
+    "Halt": "5",
+    "Dist": "45",
+    "Day": "1",
+    "index": 4
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7ea"
+  },
+  "SCT": {
+    "Arrives": "15.00",
+    "Departs": "15.05",
+    "Halt": "5",
+    "Dist": "94",
+    "Day": "1",
+    "index": 5
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7eb"
+  },
+  "TSI": {
+    "Arrives": "15.15",
+    "Departs": "15.17",
+    "Halt": "2",
+    "Dist": "102",
+    "Day": "1",
+    "index": 6
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7ec"
+  },
+  "KDNL": {
+    "Arrives": "15.31",
+    "Departs": "15.32",
+    "Halt": "1",
+    "Dist": "118",
+    "Day": "1",
+    "index": 7
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7ed"
+  },
+  "SNKL": {
+    "Arrives": "15.59",
+    "Departs": "16.00",
+    "Halt": "1",
+    "Dist": "139",
+    "Day": "1",
+    "index": 8
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7ee"
+  },
+  "RJPM": {
+    "Arrives": "16.23",
+    "Departs": "16.25",
+    "Halt": "2",
+    "Dist": "171",
+    "Day": "1",
+    "index": 9
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7ef"
+  },
+  "SVPR": {
+    "Arrives": "16.37",
+    "Departs": "16.38",
+    "Halt": "1",
+    "Dist": "183",
+    "Day": "1",
+    "index": 10
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f0"
+  },
+  "SVKS": {
+    "Arrives": "16.54",
+    "Departs": "16.55",
+    "Halt": "1",
+    "Dist": "200",
+    "Day": "1",
+    "index": 11
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f1"
+  },
+  "VPT": {
+    "Arrives": "17.40",
+    "Departs": "17.45",
+    "Halt": "5",
+    "Dist": "224",
+    "Day": "1",
+    "index": 12
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f2"
+  },
+  "MDU": {
+    "Arrives": "18.55",
+    "Departs": "19.00",
+    "Halt": "5",
+    "Dist": "267",
+    "Day": "1",
+    "index": 13
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f3"
+  },
+  "DG": {
+    "Arrives": "20.03",
+    "Departs": "20.05",
+    "Halt": "2",
+    "Dist": "333",
+    "Day": "1",
+    "index": 14
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f4"
+  },
+  "TPJ": {
+    "Arrives": "21.15",
+    "Departs": "21.20",
+    "Halt": "5",
+    "Dist": "427",
+    "Day": "1",
+    "index": 15
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f5"
+  },
+  "VRI": {
+    "Arrives": "22.48",
+    "Departs": "22.50",
+    "Halt": "2",
+    "Dist": "550",
+    "Day": "1",
+    "index": 16
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f6"
+  },
+  "VM": {
+    "Arrives": "00.05",
+    "Departs": "00.10",
+    "Halt": "5",
+    "Dist": "605",
+    "Day": "2",
+    "index": 17
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f7"
+  },
+  "CGL": {
+    "Arrives": "01.55",
+    "Departs": "02.00",
+    "Halt": "5",
+    "Dist": "708",
+    "Day": "2",
+    "index": 18
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f8"
+  },
+  "TBM": {
+    "Arrives": "02.28",
+    "Departs": "02.30",
+    "Halt": "2",
+    "Dist": "739",
+    "Day": "2",
+    "index": 19
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7f9"
+  },
+  "MS": {
+    "Arrives": "03.05",
+    "Departs": "Last",
+    "Halt": "0",
+    "Dist": "763",
+    "Day": "2",
+    "index": 20
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c7fa"
+  },
+  "route": [
+    "QLN",
+    "KUV",
+    "KKZ",
+    "AVS",
+    "PUU",
+    "SCT",
+    "TSI",
+    "KDNL",
+    "SNKL",
+    "RJPM",
+    "SVPR",
+    "SVKS",
+    "VPT",
+    "MDU",
+    "DG",
+    "TPJ",
+    "VRI",
+    "VM",
+    "CGL",
+    "TBM",
+    "MS"
+  ]
+},{
+  "_id": {
+    "$oid": "626d59db75ec8d15bff1285e"
+  },
+  "Name": "QLN MS Express"
+},{
+  "_id": {
+    "$oid": "62736a6b4dd5a6f4a210bd1e"
+  },
+  "days": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ]
+},{
+  "_id": {
+    "$oid": "62739c5e4dd5a6f4a210bd2b"
+  },
+  "Price": {
+    "AC1": 1000,
+    "AC2": 500,
+    "AC3": 300,
+    "Sleeper": 150,
+    "SS": 60
+  }
+}]

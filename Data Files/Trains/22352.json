@@ -1,0 +1,374 @@
+[{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c817"
+  },
+  "YPR": {
+    "Arrives": "First",
+    "Departs": "13.30",
+    "Halt": "0",
+    "Dist": "0",
+    "Day": "1",
+    "index": 0
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c818"
+  },
+  "KJM": {
+    "Arrives": "14.04",
+    "Departs": "14.05",
+    "Halt": "1",
+    "Dist": "20",
+    "Day": "1",
+    "index": 1
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c819"
+  },
+  "JTJ": {
+    "Arrives": "16.25",
+    "Departs": "16.30",
+    "Halt": "5",
+    "Dist": "154",
+    "Day": "1",
+    "index": 2
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c81a"
+  },
+  "KPD": {
+    "Arrives": "17.40",
+    "Departs": "17.45",
+    "Halt": "5",
+    "Dist": "238",
+    "Day": "1",
+    "index": 3
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c81b"
+  },
+  "AJJ": {
+    "Arrives": "18.28",
+    "Departs": "18.30",
+    "Halt": "2",
+    "Dist": "299",
+    "Day": "1",
+    "index": 4
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c81c"
+  },
+  "MAS": {
+    "Arrives": "20.00",
+    "Departs": "20.20",
+    "Halt": "20",
+    "Dist": "367",
+    "Day": "1",
+    "index": 5
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c81d"
+  },
+  "GDR": {
+    "Arrives": "22.13",
+    "Departs": "22.15",
+    "Halt": "2",
+    "Dist": "504",
+    "Day": "1",
+    "index": 6
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c81e"
+  },
+  "NLR": {
+    "Arrives": "22.43",
+    "Departs": "22.45",
+    "Halt": "2",
+    "Dist": "543",
+    "Day": "1",
+    "index": 7
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c81f"
+  },
+  "OGL": {
+    "Arrives": "00.03",
+    "Departs": "00.05",
+    "Halt": "2",
+    "Dist": "659",
+    "Day": "2",
+    "index": 8
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c820"
+  },
+  "BZA": {
+    "Arrives": "02.15",
+    "Departs": "02.25",
+    "Halt": "10",
+    "Dist": "797",
+    "Day": "2",
+    "index": 9
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c821"
+  },
+  "KMT": {
+    "Arrives": "04.04",
+    "Departs": "04.05",
+    "Halt": "1",
+    "Dist": "898",
+    "Day": "2",
+    "index": 10
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c822"
+  },
+  "WL": {
+    "Arrives": "05.23",
+    "Departs": "05.25",
+    "Halt": "2",
+    "Dist": "1006",
+    "Day": "2",
+    "index": 11
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c823"
+  },
+  "RDM": {
+    "Arrives": "07.14",
+    "Departs": "07.15",
+    "Halt": "1",
+    "Dist": "1106",
+    "Day": "2",
+    "index": 12
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c824"
+  },
+  "BPQ": {
+    "Arrives": "10.00",
+    "Departs": "10.05",
+    "Halt": "5",
+    "Dist": "1248",
+    "Day": "2",
+    "index": 13
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c825"
+  },
+  "CD": {
+    "Arrives": "10.23",
+    "Departs": "10.25",
+    "Halt": "2",
+    "Dist": "1262",
+    "Day": "2",
+    "index": 14
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c826"
+  },
+  "NGP": {
+    "Arrives": "13.05",
+    "Departs": "13.10",
+    "Halt": "5",
+    "Dist": "1459",
+    "Day": "2",
+    "index": 15
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c827"
+  },
+  "BZU": {
+    "Arrives": "15.30",
+    "Departs": "15.32",
+    "Halt": "2",
+    "Dist": "1650",
+    "Day": "2",
+    "index": 16
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c828"
+  },
+  "ET": {
+    "Arrives": "18.40",
+    "Departs": "18.50",
+    "Halt": "10",
+    "Dist": "1756",
+    "Day": "2",
+    "index": 17
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c829"
+  },
+  "JBP": {
+    "Arrives": "22.20",
+    "Departs": "22.30",
+    "Halt": "10",
+    "Dist": "2001",
+    "Day": "2",
+    "index": 18
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c82a"
+  },
+  "KTE": {
+    "Arrives": "23.50",
+    "Departs": "23.55",
+    "Halt": "5",
+    "Dist": "2092",
+    "Day": "2",
+    "index": 19
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c82b"
+  },
+  "STA": {
+    "Arrives": "01.15",
+    "Departs": "01.20",
+    "Halt": "5",
+    "Dist": "2190",
+    "Day": "3",
+    "index": 20
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c82c"
+  },
+  "PCOI": {
+    "Arrives": "04.22",
+    "Departs": "04.27",
+    "Halt": "5",
+    "Dist": "2360",
+    "Day": "3",
+    "index": 21
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c82d"
+  },
+  "MZP": {
+    "Arrives": "05.25",
+    "Departs": "05.30",
+    "Halt": "5",
+    "Dist": "2441",
+    "Day": "3",
+    "index": 22
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c82e"
+  },
+  "DDU": {
+    "Arrives": "07.05",
+    "Departs": "07.15",
+    "Halt": "10",
+    "Dist": "2503",
+    "Day": "3",
+    "index": 23
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c82f"
+  },
+  "DNR": {
+    "Arrives": "09.38",
+    "Departs": "09.40",
+    "Halt": "2",
+    "Dist": "2706",
+    "Day": "3",
+    "index": 24
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c830"
+  },
+  "PPTA": {
+    "Arrives": "10.25",
+    "Departs": "Last",
+    "Halt": "0",
+    "Dist": "2711",
+    "Day": "3",
+    "index": 25
+  }
+},{
+  "_id": {
+    "$oid": "6265102db77e6c0a70e3c831"
+  },
+  "route": [
+    "YPR",
+    "KJM",
+    "JTJ",
+    "KPD",
+    "AJJ",
+    "MAS",
+    "GDR",
+    "NLR",
+    "OGL",
+    "BZA",
+    "KMT",
+    "WL",
+    "RDM",
+    "BPQ",
+    "CD",
+    "NGP",
+    "BZU",
+    "ET",
+    "JBP",
+    "KTE",
+    "STA",
+    "PCOI",
+    "MZP",
+    "DDU",
+    "DNR",
+    "PPTA"
+  ]
+},{
+  "_id": {
+    "$oid": "626d5a4f75ec8d15bff12864"
+  },
+  "Name": "Yesvantpur - Patliputra SF Express"
+},{
+  "_id": {
+    "$oid": "62736b9b4dd5a6f4a210bd24"
+  },
+  "days": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "62739c5e4dd5a6f4a210bd2b"
+  },
+  "Price": {
+    "AC1": 1000,
+    "AC2": 500,
+    "AC3": 300,
+    "Sleeper": 150,
+    "SS": 60
+  }
+}]

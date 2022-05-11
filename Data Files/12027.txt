@@ -1,0 +1,4 @@
+1,MAS,Mgr Chennai Ctr,SR,MAS,First,17.30,0,2A,0,1,
+2,KPD,Katpadi Jn,SR,MAS,19.08,19.10,2,1,130,1,
+3,BNC,Bangalore Cant,SWR,SBC,22.03,22.05,2,1,358,1,
+4,SBC,Ksr Bengaluru,SWR,SBC,22.25,Last,0,7,362,1,

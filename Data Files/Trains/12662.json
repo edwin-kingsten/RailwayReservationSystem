@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7bd"
+  },
+  "SCT": {
+    "Arrives": "First",
+    "Departs": "18.20",
+    "Halt": "0",
+    "Dist": "0",
+    "Day": "1",
+    "index": 0
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7be"
+  },
+  "TSI": {
+    "Arrives": "18.33",
+    "Departs": "18.35",
+    "Halt": "2",
+    "Dist": "8",
+    "Day": "1",
+    "index": 1
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7bf"
+  },
+  "KDNL": {
+    "Arrives": "18.49",
+    "Departs": "18.50",
+    "Halt": "1",
+    "Dist": "24",
+    "Day": "1",
+    "index": 2
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c0"
+  },
+  "PBKS": {
+    "Arrives": "19.02",
+    "Departs": "19.03",
+    "Halt": "1",
+    "Dist": "33",
+    "Day": "1",
+    "index": 3
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c1"
+  },
+  "SNKL": {
+    "Arrives": "19.15",
+    "Departs": "19.17",
+    "Halt": "2",
+    "Dist": "45",
+    "Day": "1",
+    "index": 4
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c2"
+  },
+  "RJPM": {
+    "Arrives": "19.40",
+    "Departs": "19.42",
+    "Halt": "2",
+    "Dist": "78",
+    "Day": "1",
+    "index": 5
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c3"
+  },
+  "SVPR": {
+    "Arrives": "19.54",
+    "Departs": "19.55",
+    "Halt": "1",
+    "Dist": "89",
+    "Day": "1",
+    "index": 6
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c4"
+  },
+  "SVKS": {
+    "Arrives": "20.08",
+    "Departs": "20.10",
+    "Halt": "2",
+    "Dist": "106",
+    "Day": "1",
+    "index": 7
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c5"
+  },
+  "TTL": {
+    "Arrives": "20.16",
+    "Departs": "20.17",
+    "Halt": "1",
+    "Dist": "109",
+    "Day": "1",
+    "index": 8
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c6"
+  },
+  "VPT": {
+    "Arrives": "20.38",
+    "Departs": "20.40",
+    "Halt": "2",
+    "Dist": "130",
+    "Day": "1",
+    "index": 9
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c7"
+  },
+  "MDU": {
+    "Arrives": "21.45",
+    "Departs": "21.50",
+    "Halt": "5",
+    "Dist": "174",
+    "Day": "1",
+    "index": 10
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c8"
+  },
+  "DG": {
+    "Arrives": "22.47",
+    "Departs": "22.50",
+    "Halt": "3",
+    "Dist": "240",
+    "Day": "1",
+    "index": 11
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7c9"
+  },
+  "TPJ": {
+    "Arrives": "00.10",
+    "Departs": "00.15",
+    "Halt": "5",
+    "Dist": "334",
+    "Day": "2",
+    "index": 12
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7ca"
+  },
+  "VRI": {
+    "Arrives": "01.43",
+    "Departs": "01.45",
+    "Halt": "2",
+    "Dist": "457",
+    "Day": "2",
+    "index": 13
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7cb"
+  },
+  "VM": {
+    "Arrives": "02.50",
+    "Departs": "02.55",
+    "Halt": "5",
+    "Dist": "511",
+    "Day": "2",
+    "index": 14
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7cc"
+  },
+  "CGL": {
+    "Arrives": "04.18",
+    "Departs": "04.20",
+    "Halt": "2",
+    "Dist": "614",
+    "Day": "2",
+    "index": 15
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7cd"
+  },
+  "TBM": {
+    "Arrives": "04.48",
+    "Departs": "04.50",
+    "Halt": "2",
+    "Dist": "645",
+    "Day": "2",
+    "index": 16
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7ce"
+  },
+  "MS": {
+    "Arrives": "05.50",
+    "Departs": "Last",
+    "Halt": "0",
+    "Dist": "670",
+    "Day": "2",
+    "index": 17
+  }
+},{
+  "_id": {
+    "$oid": "6265102cb77e6c0a70e3c7cf"
+  },
+  "route": [
+    "SCT",
+    "TSI",
+    "KDNL",
+    "PBKS",
+    "SNKL",
+    "RJPM",
+    "SVPR",
+    "SVKS",
+    "TTL",
+    "VPT",
+    "MDU",
+    "DG",
+    "TPJ",
+    "VRI",
+    "VM",
+    "CGL",
+    "TBM",
+    "MS"
+  ]
+},{
+  "_id": {
+    "$oid": "626d596a75ec8d15bff12858"
+  },
+  "Name": "Pothigai Express"
+},{
+  "_id": {
+    "$oid": "62736a384dd5a6f4a210bd18"
+  },
+  "days": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ]
+},{
+  "_id": {
+    "$oid": "62739c5e4dd5a6f4a210bd2b"
+  },
+  "Price": {
+    "AC1": 1000,
+    "AC2": 500,
+    "AC3": 300,
+    "Sleeper": 150,
+    "SS": 60
+  }
+}]
